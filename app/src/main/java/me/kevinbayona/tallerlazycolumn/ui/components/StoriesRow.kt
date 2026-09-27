@@ -29,7 +29,6 @@ import androidx.compose.ui.unit.sp
 import me.kevinbayona.tallerlazycolumn.model.Story
 import coil3.compose.AsyncImage
 
-// ui/components/StoriesRow.kt
 @Composable
 fun StoriesRow(stories: List<Story>) {
     LazyRow(
